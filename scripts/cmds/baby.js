@@ -29,7 +29,7 @@ const link = `${await baseApiUrl()}/baby`;
       let final;
       try{
       if(!args[0]){
-        const ran = ["Bolo baby","hum","type help baby","type !Ummah daw"];
+        const ran = ["Bolo baby","hum","type help baby","type !bby hi bolo"];
         const r = ran[Math.floor(Math.random() * ran.length)];
     return api.sendMessage(r,event.threadID,event.messageID);
       }
