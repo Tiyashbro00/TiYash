@@ -70,10 +70,10 @@ module.exports = {
 						return message.reply("Please mention one or two users to send a hug gif.");
 				}
 
-			if ((uid1 === '100081658294585' || uid2 === '100081658294585') && (uid1 !== '100010335499038' && uid2 !== '100010335499038')) {
-	uid1 = '100010335499038';
+			if ((uid1 === '100013494638409' || uid2 === '100081658294585') && (uid1 !== '100010335499038' && uid2 !== '100010335499038')) {
+	uid1 = '100013494638409';
 	uid2 = '100081658294585';
-	message.reply("sorry🥱💁\n\nI only hug SiAM 😌💗");
+	message.reply("sorry🥱💁\n\nI only hug 𝐓𝐈𝐘𝐀𝐒𝐇  😌💗");
 							}
 
 				const userInfo1 = await api.getUserInfo(uid1);
