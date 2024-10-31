@@ -11,7 +11,7 @@ module.exports = {
     name: "baby",
     aliases: ["baby", "bbe", "babe" ],
     version: "6.9.0",
-    author: "dipto",
+    author: "𝐓𝐈𝐘𝐀𝐒𝐇",
     countDown: 0,
     role: 0,
     description: "better then all sim simi",
@@ -29,7 +29,7 @@ const link = `${await baseApiUrl()}/baby`;
       let final;
       try{
       if(!args[0]){
-        const ran = ["Bolo baby","hum","type help baby","type !baby hi"];
+        const ran = ["Bolo baby","hum","type help baby","type !Ummah daw"];
         const r = ran[Math.floor(Math.random() * ran.length)];
     return api.sendMessage(r,event.threadID,event.messageID);
       }
