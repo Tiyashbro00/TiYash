@@ -5,7 +5,7 @@ const fs = require("fs");
 
 module.exports = {
   config: {
-    name: "gfx",
+    name: "gf",
     aliases: ["gfxs"],
     version: "1.0",
     author: "Samir",
