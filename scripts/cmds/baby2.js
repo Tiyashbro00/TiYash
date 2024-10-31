@@ -74,7 +74,7 @@ module.exports.onStart = async function ({ api, args, event }) {
     const dipto = args.join(" ").toLowerCase();
     if (!args[0]) {
       api.sendMessage(
-        "𝐏𝐥𝐳 𝐭𝐲𝐩𝐞 Bby hi",
+        "love you bolo",
         event.threadID,
         event.messageID,
       );
