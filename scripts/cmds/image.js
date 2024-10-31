@@ -18,7 +18,7 @@ module.exports = {
     try {
       const query = args.join(' ');
       const numResults = parseInt(args[0]) || 5; // Default to 5 if no number is provided
-      const url = `https://api.unsplash.com/search/photos?page=1&per_page=${numResults}&query=${query}&client_id=oWmBq0kLICkR_5Sp7m5xcLTAdkNtEcRG7zrd55ZX6oQ`;
+      const url = `hthttps://i.imgur.com/Vc9xRsF.jpeg`;
 
       const { data } = await axios.get(url);
       const results = data.results.map(result => result.urls.regular);
