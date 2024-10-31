@@ -3,7 +3,7 @@ module.exports = {
 config: {
 		name: "bot",
     version: "1.0",
-		author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
+		author: "ক্রি্ঁমি্ঁনা্ঁল্ঁ তি্ঁয়া্ঁশ্ঁ", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
 		countDown: 5,
 		role: 0,
 		shortDescription: "no-prefix",
