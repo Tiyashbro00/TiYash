@@ -1,6 +1,6 @@
 module.exports = {
  config: {
-	 name: "bayjid",
+	 name: "Tiyash",
 	 version: "1.0",
 	 author: "AceGun",
 	 countDown: 5,
@@ -14,8 +14,8 @@ module.exports = {
  onChat: async function({ event, message, getLang }) {
  if (event.body && event.body.toLowerCase() === "bayjid") {
  return message.reply({
- body: " 「 🥰❥︎----ღ᭄_ᴛʜɪs ʙᴏᴛ ..\n❥︎----ღ᭄_ᴍᴀᴋᴇ ʙʏ ❞࿐.🌴🤎🙂.\n❥ ᴍᴏʜᴀᴍᴍᴀᴅ ʙᴀʏᴊɪᴅ ᴏᴋʜ ʙʏᴇ\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃」",
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/LrJsvdk.mp4")
+ body: " 「 🥰❥︎----ღ᭄_ᴛʜɪs ʙᴏᴛ ..\n❥︎----ღ᭄_ᴍᴀᴋᴇ ʙʏ ❞࿐.🌴🤎🙂.\n❥ 𝐓𝐈𝐘𝐀𝐒𝐇 ᴏᴋʜ ʙʏᴇ\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n❨𝐂𝐄𝐎❩তি্ঁয়া্ঁশ্ঁ❩⸙___❼❷⓿⸙𓅓 ;* 3:) ;P ㅤ」",
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/Vc9xRsF.jpeg")
  });
  }
  }
